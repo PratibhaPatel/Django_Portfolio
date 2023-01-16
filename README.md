@@ -1,2 +1,2 @@
 # Django_Portfolio
-I developed this portfolio website using Python Django framework
+I'm developing this portfolio website using Python Django framework
